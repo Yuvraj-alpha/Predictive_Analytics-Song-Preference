@@ -5,3 +5,5 @@ listening behaviors of the listeners of the Spotify digital music platform. It i
 on Spotify. Spotify Trends can help any content creator/musician to understand what listeners prefer and how to compete in this immensely growing
 market. Based on the given data, I developed and analyzed ML algorithms to predict song preference based on the given features and tried to
 achieve the maximum accuracy that I can.
+
+The project file and related files can be found in the "master" branch
